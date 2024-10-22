@@ -85,3 +85,6 @@ Eficiencia de Recursos: Docker fue más eficiente en el uso de los recursos del 
 Conclusión: Para cargas de trabajo intensivas en solicitudes, las VM pueden ofrecer un mejor rendimiento general. Docker, aunque más ligero en términos de consumo de recursos, podría no manejar bien cargas pesadas en entornos de red intensivos como un servidor web bajo alta concurrencia.
 
 
+LINK DE LA PRESENTACION
+https://www.canva.com/design/DAGUTsnvItE/7js34Jzznd2eukKOtfn50Q/edit?utm_content=DAGUTsnvItE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
